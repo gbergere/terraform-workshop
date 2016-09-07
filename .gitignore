@@ -1,0 +1,9 @@
+# IDE
+.idea/
+
+# Local
+*override.tf
+
+# Cache
+terraform.tfstate*
+.terraform/
